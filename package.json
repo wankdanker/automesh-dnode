@@ -1,0 +1,22 @@
+{
+  "name": "automesh-dnode",
+  "version": "1.0.0",
+  "description": "dnode plugin for automesh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wankdanker/automesh-dnode"
+  },
+  "author": "Dan VerWeire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wankdanker/automesh-dnode/issues"
+  },
+  "homepage": "https://github.com/wankdanker/automesh-dnode",
+  "dependencies": {
+    "dnode": "^1.2.0"
+  }
+}
