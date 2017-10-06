@@ -1,6 +1,6 @@
 {
   "name": "automesh-dnode",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "dnode plugin for automesh",
   "main": "index.js",
   "scripts": {
